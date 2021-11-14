@@ -3,7 +3,7 @@
 A simple CLI tool to traverse a target directory & output the collected 
 hierarchy to JSON. This is my first attempt at writing something in the [Nim language](https://nim-lang.org/).
 
-## Build and Install
+## Build and Install
 
 `nimble install`
 
